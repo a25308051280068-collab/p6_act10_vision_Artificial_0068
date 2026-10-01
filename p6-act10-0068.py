@@ -93,3 +93,5 @@ cv2.destroyAllWindows()
 cv2.imshow("Trackbars 0068", img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+print("Christian Garcia 0068")
