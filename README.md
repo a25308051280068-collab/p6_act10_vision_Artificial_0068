@@ -1,0 +1,2 @@
+# p6_act10_vision_Artificial_0068
+Visión Artificial
